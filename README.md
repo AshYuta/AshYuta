@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--
+ola seja bem vindo querides
+<!-- eu sou a ashiley milene e estou estudando os cursos do alura 
 **AshYuta/AshYuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
